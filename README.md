@@ -35,14 +35,28 @@ Este projeto implementa o clássico jogo Sudoku, explorando os limites da arquit
 ## ▶ Como Executar
 
 1.  **Baixe um simulador:** Recomenda-se o **MARS**.
-2.  **Clone o repositório:**
-    ```bash
-    git clone [https://github.com/seu-usuario/nome-do-repositorio.git](https://github.com/seu-usuario/nome-do-repositorio.git)
-    ```
-3.  **Abra o simulador:** Importe o arquivo `.asm` ou `.s`.
-4.  **Assemble & Run:** Clique no ícone da engrenagem (Assemble) e depois no botão de "Play" (Run).
+2.  **Abra o simulador:** Importe o arquivo `.asm` ou `.s`.
+3.  **Assemble & Run:** Clique no ícone da engrenagem (Assemble) e depois no botão de "Play" (Run).
 
 ---
+
+## 🎯 Objetivo Acadêmico
+
+Este projeto foi desenvolvido para reforçar conceitos de:
+
+- Arquitetura de Computadores
+- Programação em Baixo Nível
+- Organização e Estrutura de Dados em Memória
+- Lógica Algorítmica
+
+---
+
+## 🚀 Possíveis Melhorias Futuras
+
+- Sistema de níveis de dificuldade
+- Geração automática de tabuleiros
+- Interface mais amigável
+- Otimização de validações
 
 
 ## 👤 Integrantes
