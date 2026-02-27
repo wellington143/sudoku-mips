@@ -61,8 +61,9 @@ Este projeto foi desenvolvido para reforçar conceitos de:
 
 ## 👤 Integrantes
 
-- 👨‍💻  [Jose Wellington Carvalho Santos](https://github.com/wellington143)
+- 👨‍💻 [Jose Wellington Carvalho Santos](https://github.com/wellington143)
 - 👨‍💻 [Vinicius Meneses Oliveira](https://github.com/viniciusmeneses159)
+- 👨‍💻 [Tallysson Luiz Andrade De Oliveira](https://github.com/TallyssonLuiz)
 
 ---
 
